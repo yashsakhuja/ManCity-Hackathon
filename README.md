@@ -5,7 +5,7 @@ Our team has worked on an Expected Points model and Evidential Reasoning Model f
 Aim: To identify top players by devising new scoring methods to score the individual performances. 
 Data Source: Statsbomb and SecondSpectrum
 
-#########################################################################################################################################################
+#################################################################
 About Expected Points Model:
 
 
@@ -22,7 +22,7 @@ About Expected Points Model:
 
 
 
-#########################################################################################################################################################
+#################################################################
 About Evidential Reasoning Model: 
 
 The Evidential Reasoning Model is based on the Dempster-Shafer theory for modelling uncertainities and possibilities.
