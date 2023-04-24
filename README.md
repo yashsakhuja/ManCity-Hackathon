@@ -50,6 +50,10 @@ To run the web app, download all the data within the "webappdata" folder and use
 
 Webapp link: https://raheelsq.shinyapps.io/Hackathon/
 
+The webapp has 3 tabs (on the left side) namely- tactics, passing clusters, and defensive ranks.
+
+Toogle the tabs to know more bout the performance statistics.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
