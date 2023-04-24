@@ -52,10 +52,16 @@ Arsenal Players Defensive Scores- IDS File
 
 Arsenal Players Defensive Results - Text File
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 With our expected points visualizations, we intended on giving coaches a better understanding of their teams performances during a particular game, as the final score is not always representative of a team's performance during a game. 
 
 Clustering is a powerful technique and using it to show passing clusters is an effective way of assisting coaches in determining which passes on the pitch are most effective in producing the most dangerous shots. 
 
 To run the web app, download all the data within the "webappdata" folder and use them to run "app.R". 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
