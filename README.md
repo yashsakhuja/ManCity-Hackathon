@@ -13,6 +13,8 @@ With our expected points visualizations, we intended on giving coaches a better 
 
 Clustering is a powerful technique and using it to show passing clusters is an effective way of assisting coaches in determining which passes on the pitch are most effective in producing the most dangerous shots. 
 
+The webappdata foler and webapp data has all the folders for the aforementioned model
+
 #################################################################
 
 About Evidential Reasoning Model: 
@@ -24,7 +26,7 @@ To know more about this theory and its applications we attach here an academic p
 
 https://personalpages.manchester.ac.uk/staff/jian-bo.yang/JB%20Yang%20Journal_Papers/RuleUtility.pdf
 
-Refer to the following files in the repository for this bit of the project:
+Refer to the following files in the repository (under the Defensive Rankings- ER Model folder) for this bit of the project:
 
 IDS Downlaod- StudentVersion ZipFile (Setup)
 
@@ -42,18 +44,19 @@ Arsenal Players Defensive Scores- IDS File
 
 Arsenal Players Defensive Results - Text File
 
-###################33
+################### Webapp details
 
 To access the final output we have designed a webapp on R to be accessed by managers:
 
-To run the web app, download all the data within the "webappdata" folder and use them to run "app.R". 
-
 Webapp link: https://raheelsq.shinyapps.io/Hackathon/
+
+To run the web app, download all the data within the "webappdata" folder and use them to run "app.R". 
 
 The webapp has 3 tabs (on the left side) namely- tactics, passing clusters, and defensive ranks.
 
 Toogle the tabs to know more bout the performance statistics.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
