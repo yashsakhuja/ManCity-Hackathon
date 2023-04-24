@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="30" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>ManCity_Arsenal_eventsdata.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="index" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="period" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="timestamp" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="minute" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="second" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="possession" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="obv_for_after" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="obv_for_before" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="obv_for_net" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="obv_against_after" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="obv_against_before" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="obv_against_net" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="obv_total_net" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="duration" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="type.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="type.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="possession_team.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="possession_team.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="play_pattern.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="play_pattern.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="team.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="team.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="tactics.formation" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="tactics.lineup" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="related_events" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="location" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="player.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="player.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="position.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="position.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.recipient.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.recipient.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.length" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.angle" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.height.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.height.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.end_location" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.type.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.type.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.body_part.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.body_part.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="carry.end_location" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="under_pressure" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.outcome.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.outcome.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="ball_receipt.outcome.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="ball_receipt.outcome.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="counterpress" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="duel.type.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="duel.type.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="miscontrol.aerial_won" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.aerial_won" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="dribble.outcome.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="dribble.outcome.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.switch" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="interception.outcome.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="interception.outcome.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.statsbomb_xg" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.end_location" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.outcome.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.outcome.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.technique.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.technique.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.body_part.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.body_part.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.type.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.type.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.freeze_frame" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.end_location" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.position.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.position.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.type.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.type.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="off_camera" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="clearance.head" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="clearance.body_part.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="clearance.body_part.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="dribble.nutmeg" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="out" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="ball_recovery.recovery_failure" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.cross" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.xclaim" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="clearance.left_foot" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.assisted_shot_id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.goal_assist" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.open_goal" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.statsbomb_xg2" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.key_pass_id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.first_time" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.outcome.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.outcome.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.technique.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.technique.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.through_ball" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.technique.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.technique.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.shot_assist" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.body_part.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="goalkeeper.body_part.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.aerial_won" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="duel.outcome.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="duel.outcome.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="foul_won.defensive" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="clearance.right_foot" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.straight" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="shot.one_on_one" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="50_50.outcome.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="50_50.outcome.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="injury_stoppage.in_chain" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="dribble.no_touch" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="clearance.aerial_won" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="foul_committed.advantage" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="foul_won.advantage" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="substitution.outcome.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="substitution.outcome.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="substitution.replacement.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="substitution.replacement.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.inswinging" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="foul_committed.card.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="foul_committed.card.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="bad_behaviour.card.id" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="bad_behaviour.card.name" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.miscommunication" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.cut_back" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="dribble.overrun" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+            <Field name="pass.outswinging" size="254" source="File: C:\Users\yashs\Downloads\ManCity_Arsenal_eventsdata.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Building Defensive Scores</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="8fea31ba-56ac-4b00-92b7-5aabfd1fa3d7" />
+      <Telemetry>
+        <PreviousWorkflowId value="b85a9781-cfa3-40dc-b5e9-af1940da8ee8" />
+        <OriginWorkflowId value="b85a9781-cfa3-40dc-b5e9-af1940da8ee8" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

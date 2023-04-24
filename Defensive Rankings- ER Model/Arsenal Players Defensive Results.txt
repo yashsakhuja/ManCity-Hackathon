@@ -1,0 +1,283 @@
+
+	==============================================
+	The Assessment Results for All Alternatives on
+		<Score>
+	==============================================
+
+Attribute Name: Score
+Attribute Type: Qualitative
+____________________________________________________________
+
+
+Alternative Name: Frida Maanum
+
+Alternative Utility: 0.317722
+Alternative Ranking: 4
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.577738	0.000000	Worst
+		 0.088607	0.250000	Poor
+		 0.025390	0.500000	Average
+		 0.101561	0.750000	Good
+		 0.206704	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.317722
+Minimum Utility: 0.317722
+Average Utility: 0.317722
+____________________________________________________________
+
+
+Alternative Name: Giovana Queiroz Costa
+
+Alternative Utility: 0.232752
+Alternative Ranking: 13
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.655611	0.000000	Worst
+		 0.148849	0.250000	Poor
+		 0.000000	0.500000	Average
+		 0.000000	0.750000	Good
+		 0.195540	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.232752
+Minimum Utility: 0.232752
+Average Utility: 0.232752
+____________________________________________________________
+
+
+Alternative Name: Leah Williamson
+
+Alternative Utility: 0.289772
+Alternative Ranking: 7
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.324610	0.000000	Worst
+		 0.422868	0.250000	Poor
+		 0.115806	0.500000	Average
+		 0.042255	0.750000	Good
+		 0.094461	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.289772
+Minimum Utility: 0.289772
+Average Utility: 0.289772
+____________________________________________________________
+
+
+Alternative Name: Carlotte Wubben-Moy
+
+Alternative Utility: 0.284633
+Alternative Ranking: 8
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.375678	0.000000	Worst
+		 0.420435	0.250000	Poor
+		 0.007861	0.500000	Average
+		 0.081728	0.750000	Good
+		 0.114298	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.284633
+Minimum Utility: 0.284633
+Average Utility: 0.284633
+____________________________________________________________
+
+
+Alternative Name: Manuela Zinsberger
+
+Alternative Utility: 0.175315
+Alternative Ranking: 16
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.824685	0.000000	Worst
+		 0.000000	0.250000	Poor
+		 0.000000	0.500000	Average
+		 0.000000	0.750000	Good
+		 0.175315	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.175315
+Minimum Utility: 0.175315
+Average Utility: 0.175315
+____________________________________________________________
+
+
+Alternative Name: Laura Wienroither
+
+Alternative Utility: 0.256132
+Alternative Ranking: 12
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.404845	0.000000	Worst
+		 0.273358	0.250000	Poor
+		 0.214222	0.500000	Average
+		 0.107575	0.750000	Good
+		 0.000000	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.256132
+Minimum Utility: 0.256132
+Average Utility: 0.256132
+____________________________________________________________
+
+
+Alternative Name: Noelle Maritz
+
+Alternative Utility: 0.404772
+Alternative Ranking: 3
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.128891	0.000000	Worst
+		 0.281086	0.250000	Poor
+		 0.432067	0.500000	Average
+		 0.157956	0.750000	Good
+		 0.000000	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.404772
+Minimum Utility: 0.404772
+Average Utility: 0.404772
+____________________________________________________________
+
+
+Alternative Name: Kathrine Møller Kühl
+
+Alternative Utility: 0.178883
+Alternative Ranking: 15
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.661184	0.000000	Worst
+		 0.145624	0.250000	Poor
+		 0.029382	0.500000	Average
+		 0.144095	0.750000	Good
+		 0.019715	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.178883
+Minimum Utility: 0.178883
+Average Utility: 0.178883
+____________________________________________________________
+
+
+Alternative Name: Stephanie-Elise Catley
+
+Alternative Utility: 0.312731
+Alternative Ranking: 5
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.332091	0.000000	Worst
+		 0.353827	0.250000	Poor
+		 0.140605	0.500000	Average
+		 0.078022	0.750000	Good
+		 0.095456	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.312731
+Minimum Utility: 0.312731
+Average Utility: 0.312731
+____________________________________________________________
+
+
+Alternative Name: Caitlin Jade Foord
+
+Alternative Utility: 0.195946
+Alternative Ranking: 14
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.549593	0.000000	Worst
+		 0.222258	0.250000	Poor
+		 0.122920	0.500000	Average
+		 0.105229	0.750000	Good
+		 0.000000	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.195946
+Minimum Utility: 0.195946
+Average Utility: 0.195946
+____________________________________________________________
+
+
+Alternative Name: Kim Little
+
+Alternative Utility: 0.281712
+Alternative Ranking: 9
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.494251	0.000000	Worst
+		 0.156454	0.250000	Poor
+		 0.098353	0.500000	Average
+		 0.230082	0.750000	Good
+		 0.020861	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.281712
+Minimum Utility: 0.281712
+Average Utility: 0.281712
+____________________________________________________________
+
+
+Alternative Name: Rafaelle Leone Carvalho Souza
+
+Alternative Utility: 0.428616
+Alternative Ranking: 2
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.184065	0.000000	Worst
+		 0.233081	0.250000	Poor
+		 0.297657	0.500000	Average
+		 0.254716	0.750000	Good
+		 0.030481	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.428616
+Minimum Utility: 0.428616
+Average Utility: 0.428616
+____________________________________________________________
+
+
+Alternative Name: Victoria Pelova
+
+Alternative Utility: 0.460865
+Alternative Ranking: 1
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.038985	0.000000	Worst
+		 0.241964	0.250000	Poor
+		 0.575921	0.500000	Average
+		 0.122866	0.750000	Good
+		 0.020265	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.460865
+Minimum Utility: 0.460865
+Average Utility: 0.460865
+____________________________________________________________
+
+
+Alternative Name: Emma Stina Blackstenius
+
+Alternative Utility: 0.292235
+Alternative Ranking: 6
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.491351	0.000000	Worst
+		 0.167801	0.250000	Poor
+		 0.127946	0.500000	Average
+		 0.106361	0.750000	Good
+		 0.106541	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.292235
+Minimum Utility: 0.292235
+Average Utility: 0.292235
+____________________________________________________________
+
+
+Alternative Name: Lia Wälti
+
+Alternative Utility: 0.268302
+Alternative Ranking: 10
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.326988	0.000000	Worst
+		 0.314594	0.250000	Poor
+		 0.316639	0.500000	Average
+		 0.041778	0.750000	Good
+		 0.000000	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.268302
+Minimum Utility: 0.268302
+Average Utility: 0.268302
+____________________________________________________________
+
+
+Alternative Name: Katie McCabe
+
+Alternative Utility: 0.266511
+Alternative Ranking: 11
+Assessed Result: Belief Degree	Grade Utility	Grade Name
+		 0.437773	0.000000	Worst
+		 0.334298	0.250000	Poor
+		 0.058309	0.500000	Average
+		 0.063350	0.750000	Good
+		 0.106270	1.000000	Best
+		 0.000000	Unassigned degree of belief
+Maximum Utility: 0.266511
+Minimum Utility: 0.266511
+Average Utility: 0.266511
+____________________________________________________________
+
+
