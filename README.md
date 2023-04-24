@@ -57,7 +57,7 @@ The webapp has 3 tabs (on the left side) namely- tactics, passing clusters, and 
 
 Toogle the tabs to know more bout the performance statistics.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Here is a youtube video link with us explaining our models.
 
@@ -65,4 +65,11 @@ https://youtu.be/x7sE6gO0xBM
 
 
 P.S. Sorry again for the watermark :)
+
+
+We'd be looking to develop this webapp further with coding the mathematics behind IDS into R and develop this into a fully integrated application which could be used further for pitch time analysis to enable managers to make half-time substitutions wherein our another team member comes into picture with his expertise in substitution analytics.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
