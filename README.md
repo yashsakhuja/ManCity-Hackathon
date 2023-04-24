@@ -1,5 +1,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 # ManCity-Hays and CodeCo Hackathon
+Team: Yash Sakhuja, Raheel Qureshi, Sammy Lander, Shadi Najafpour
 Our team has worked on an Expected Points model and Evidential Reasoning Model for women's premier league data provided by Statsbomb and Second Spectrum.
 
 Aim: To identify top players by devising new scoring methods to score the individual performances. 
@@ -58,5 +59,10 @@ Toogle the tabs to know more bout the performance statistics.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Here is a youtube video link with us explaining our models.
 
+https://youtu.be/x7sE6gO0xBM
+
+
+P.S. Sorry again for the watermark :)
 
